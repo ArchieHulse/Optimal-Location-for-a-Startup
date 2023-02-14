@@ -1,7 +1,9 @@
-Archie Hulse GeoData Project:
-Project to show the optimal location for my new business to be located in order to grow.
+**Archie Hulse GeoData Project:**
+*Project to show the optimal location for my new business to be located in order to grow.*
 
-- At SurfTech, the HR team has asked everyone in the company to submit their requests for what they think is most important to have near to the office:
+(PICTURE)
+
+- At **SurfTech**, the HR team has asked everyone in the company to submit their requests for what they think is most important to have near to the office:
     - Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.
     - 30% of the company staff have at least 1 child.
     - Developers like to be near successful tech startups that have raised at least 1 Million dollars.
