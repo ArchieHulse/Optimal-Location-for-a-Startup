@@ -21,6 +21,7 @@
  - Vegan restaurants and Surf shop locations
  - Nearest Bar
  - Taxi rank
+ 
 **Density**
  - Schools
  - Starbucks
