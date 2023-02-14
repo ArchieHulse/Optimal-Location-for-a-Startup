@@ -37,7 +37,7 @@ Firstly, data of global comapnies was obtained and inserted into Mongo. This was
 The Tech Startups and Design Companies were then plotted onto separate empty maps of the globe in heat density format, in order to determin the distribution from the data:
 
 **HEAT MAPS:**
-
+v
 
 
 
