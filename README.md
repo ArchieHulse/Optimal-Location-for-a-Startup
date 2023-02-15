@@ -19,13 +19,14 @@ Based on these criteria I divided them between distance and density.
 
 ***Distance***
  - Airport
- - Tech Startups (1 million raised)
- - Design Companies
  - Vegan restaurants and Surf shop locations
  - Nearest Bar
  - Taxi rank
+ - Starbucks
  
 ***Density***
+ - Tech Startups (1 million raised)
+ - Design Companies
  - Schools
  - Starbucks
 
