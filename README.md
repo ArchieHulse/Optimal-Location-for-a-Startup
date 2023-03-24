@@ -1,5 +1,6 @@
-**Optimal Location for a Startup**
-*GeoData Project to show the optimal location for my new business to be located in order to grow.*
+# Optimal Location for a Startup
+
+**GeoData Project to find the optimal location for a new business to be located in order to grow efficiently.**
 
 ![image info](./images/san-francisco.png)
 
