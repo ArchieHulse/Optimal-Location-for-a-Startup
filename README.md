@@ -1,5 +1,5 @@
-**Archie Hulse GeoData Project:**
-*Project to show the optimal location for my new business to be located in order to grow.*
+**Optimal Location for a Startup**
+*GeoData Project to show the optimal location for my new business to be located in order to grow.*
 
 ![image info](./images/san-francisco.png)
 
